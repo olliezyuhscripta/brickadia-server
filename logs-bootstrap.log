@@ -1,0 +1,60 @@
+[2026.10.25-20.07.46:084][127]LogBrickadia: Permissions: Saved 2 custom roles.
+[2026.10.25-20.07.46:084][127]LogBrickadia: Admin role exists, checking all default permission settings are defined.
+[2026.10.25-20.07.46:084][127]LogBrickadia: Permissions: Saved 2 custom roles.
+[2026.10.25-20.07.46:085][127]LogBrickadia: Default role always exists, checking all default permission settings are defined.
+[2026.10.25-20.07.46:085][127]LogBrickadia: Permissions: Saved 2 custom roles.
+[2026.10.25-20.07.46:086][127]LogBrickadia: Permissions: Saved 2 custom roles.
+[2026.10.25-20.07.46:086][127]LogBrickadia: Starting background load for 1861 primary assets.
+[2026.10.25-20.07.46:091][127]LogLoad: Took 0.200978 seconds to LoadMap(/Game/Maps/Plate/Plate)
+[2026.10.25-20.07.46:091][127]LogGlobalStatus: LoadMap Load map complete /Game/Maps/Plate/Plate
+[2026.10.25-20.07.46:094][128]LogChatCommands: Finished async loading chat command libraries.
+[2026.10.25-20.07.46:094][128]LogChatCommands: - 2 chat command libraries.
+[2026.10.25-20.07.46:094][128]LogChatCommands: - 36 chat commands (54 counting overloads).
+[2026.10.25-20.07.46:367][144]LogBrickadia: Finished preloading primary assets
+[2026.10.25-20.08.45:895][640]LogServerList: Posting server.
+[2026.10.25-20.08.45:895][640]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.09.45:898][161]LogServerList: Posting server.
+[2026.10.25-20.09.45:898][161]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.10.45:907][684]LogServerList: Posting server.
+[2026.10.25-20.10.45:907][684]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.11.45:903][206]LogServerList: Posting server.
+[2026.10.25-20.11.45:903][206]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.12.45:904][732]LogServerList: Posting server.
+[2026.10.25-20.12.45:904][732]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.12.45:904][732]LogAutoSave: Skipping auto save (no bricks changed).
+[2026.10.25-20.12.45:905][732]LogChat: Auto save skipped: no changes since the last save.
+[2026.10.25-20.13.45:891][265]LogServerList: Posting server.
+[2026.10.25-20.13.45:891][265]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.14.45:897][793]LogServerList: Posting server.
+[2026.10.25-20.14.45:897][793]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.15.45:899][308]LogServerList: Posting server.
+[2026.10.25-20.15.45:899][308]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.16.45:893][835]LogServerList: Posting server.
+[2026.10.25-20.16.45:893][835]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.17.45:904][366]LogAutoSave: Skipping auto save (no bricks changed).
+[2026.10.25-20.17.45:904][366]LogChat: Auto save skipped: no changes since the last save.
+[2026.10.25-20.17.45:904][366]LogServerList: Posting server.
+[2026.10.25-20.17.45:904][366]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.18.45:893][888]LogServerList: Posting server.
+[2026.10.25-20.18.45:893][888]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.19.45:897][406]LogServerList: Posting server.
+[2026.10.25-20.19.45:897][406]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.20.45:900][933]LogServerList: Posting server.
+[2026.10.25-20.20.45:900][933]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.21.45:891][456]LogServerList: Posting server.
+[2026.10.25-20.21.45:891][456]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.22.40:592][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51676
+[2026.10.25-20.22.40:593][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51676
+[2026.10.25-20.22.40:593][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51676
+[2026.10.25-20.22.40:593][668]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51676
+[2026.10.25-20.22.45:902][980]LogServerList: Posting server.
+[2026.10.25-20.22.45:902][980]LogSockets: Warning: Unable to load SocketSubsystem module EOS
+[2026.10.25-20.22.45:902][980]LogAutoSave: Skipping auto save (no bricks changed).
+[2026.10.25-20.22.45:903][980]LogChat: Auto save skipped: no changes since the last save.
+[2026.10.25-20.22.52:382][361]LogNet: NotifyAcceptingConnection accepted from: 127.67.239.169:53854
+[2026.10.25-20.22.52:776][384]LogNet: NotifyAcceptingConnection accepted from: 127.67.239.169:53854
+[2026.10.25-20.22.53:184][408]LogNet: NotifyAcceptingConnection accepted from: 127.67.239.169:53854
+[2026.10.25-20.22.53:578][431]LogNet: NotifyAcceptingConnection accepted from: 127.67.239.169:53854
+[2026.10.25-20.22.55:700][555]LogNet: NotifyAcceptingConnection accepted aggregation: 127.0.0.1:51676 (5), 127.67.239.169:53854 (5)
+[2026.10.25-20.23.45:894][505]LogServerList: Posting server.
+[2026.10.25-20.23.45:894][505]LogSockets: Warning: Unable to load SocketSubsystem module EOS

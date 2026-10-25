@@ -1,0 +1,8 @@
+# Exact Steam build the README describes: Release-EA3-CL-16374
+app 3017590
+depot 1006    4559160656493359681
+depot 3017592 1494791018044619310
+
+# Reproduce with:
+#   DepotDownloader -app 3017590 -dir /opt/brickadia \
+#                   -manifest 3017592:1494791018044619310 -anonymous -os linux

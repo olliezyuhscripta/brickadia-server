@@ -1,0 +1,8 @@
+# Account auth cache. Never commit: these are live session credentials.
+Saved/Auth2/
+*.token
+token.txt
+playit.toml
+
+# Depot payload (738 MiB) is fetched, not stored.
+/opt/

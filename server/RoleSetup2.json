@@ -1,0 +1,351 @@
+{
+	"roles": [
+		{
+			"name": "Moderator",
+			"permissions": [],
+			"color":
+			{
+				"b": 255,
+				"g": 255,
+				"r": 0,
+				"a": 255
+			},
+			"bHasColor": true,
+			"gameplayPermissionOverrides": []
+		},
+		{
+			"name": "Admin",
+			"permissions": [
+				{
+					"name": "BR.Permission.AlwaysSave",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.AlwaysSwitchTeam",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.Building.EditPublic",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildLimitBypass.Applicator",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildLimitBypass.EntityCount",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildLimitBypass.PlaceBricks",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildLimitBypass.PlaceEntities",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildLimitBypass.Selector",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildLimitBypass.SelectorTimeout",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.BuildOnOthersGrids",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.ClearBricks.Others",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.FreezeEntities.Others",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.IgnoreTrust",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.Kick",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.PlaceAdminGates",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.Prefabs.BypassLimits",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.Prefabs.BypassTimeout",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.PreserveOwnership",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.SweepEntities.Others",
+					"state": "Allowed"
+				},
+				{
+					"name": "BR.Permission.TP.Others",
+					"state": "Allowed"
+				}
+			],
+			"color":
+			{
+				"b": 113,
+				"g": 204,
+				"r": 46,
+				"a": 255
+			},
+			"bHasColor": true,
+			"gameplayPermissionOverrides": []
+		}
+	],
+	"defaultRole":
+	{
+		"name": "Default",
+		"permissions": [
+			{
+				"name": "BR.Permission.Building",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Applicator",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Applicator.EditBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Applicator.EditEntities",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.BuildOutsideBuildZones",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Connector",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Connector.EditWires",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Hammer",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Hammer.DeleteBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Hammer.DeleteEntities",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Manipulator",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Painter",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Painter.PaintBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Painter.PaintBricks.Fill",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.DeleteBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.DeleteEntities",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.FollowMode",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PickColors",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PickObjects",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PlaceBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PlaceEntities",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PlaceFloating",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PlaceLocked",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.PrecisionMode",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.ResizePlace",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Placer.ResizePlace.SwitchAxis",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Resizer",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Selector",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.Selector.Split",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.ViewHiddenBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Building.XRay",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Chat",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.ClearBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.DeleteItems",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Flashlight",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Fly",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Fly.Ghost",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.FreezeCamera",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.FreezeEntities",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.GrabObjects",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.MoveItems",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.MultiClient",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Prefabs",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Prefabs.LoadFromClient",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.SaveWorldWithoutBuilding",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.SelfDestruct",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.SpawnBricks",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.SpawnItems",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.Sprint",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.SweepEntities",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.SweepEntities.OtherPlayers",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.TP",
+				"state": "Allowed"
+			},
+			{
+				"name": "BR.Permission.VoiceChat",
+				"state": "Allowed"
+			}
+		],
+		"color":
+		{
+			"b": 0,
+			"g": 255,
+			"r": 255,
+			"a": 255
+		},
+		"bHasColor": true,
+		"gameplayPermissionOverrides": []
+	},
+	"ownerRoleColor":
+	{
+		"b": 0,
+		"g": 50,
+		"r": 255,
+		"a": 255
+	},
+	"bOwnerRoleHasColor": true,
+	"version": "GameplayPermissionOverrideStates"
+}
